@@ -5,9 +5,11 @@ The supported hardware is:
 - Universal Robots UR5 arm 
 - Robotiq 2F/3F gripper
 - Robotiq FT 300 sensor
-- Takktile fingertip sensors
+- Takktile fingertip sensors (NYI)
 
 The library is in active development and the APIs are still evolving. 
+Some documentation is available in [src/roman/readme.md](src/roman/readme.md). 
+For usage, refer to src/examples/simple.py
 
 # Contributing
 
