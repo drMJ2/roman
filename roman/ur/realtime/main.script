@@ -1,0 +1,11 @@
+from communication import *
+
+################################################################
+## main.script
+## Starts the communication loop for UR E-Series arms.
+################################################################
+
+UR_ROBOT_VERSION = UR_ROBOT_VERSION_ESERIES
+UR_TIME_SLICE = get_steptime()
+start()
+

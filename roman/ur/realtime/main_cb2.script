@@ -1,0 +1,11 @@
+from communication import *
+
+################################################################
+## main.script
+## Starts the communication loop.
+################################################################
+
+UR_ROBOT_VERSION = UR_ROBOT_VERSION_CB2
+UR_TIME_SLICE = 1./125 
+start()
+
